@@ -24,6 +24,3 @@ math
 math
 math
 math
-math
-math
-math
