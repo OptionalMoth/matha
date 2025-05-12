@@ -5,7 +5,7 @@ Math 2.0
 Math 3.0
 Math 4.0
 math 5.0
-math
+math 6 0
 math
 math
 math
