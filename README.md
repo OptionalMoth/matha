@@ -2,7 +2,7 @@
 Math App 1
 Math
 Math 2.1
-Math 3.0
+Math 3.1
 Math 4.0
 math 5.0
 math 6 0
