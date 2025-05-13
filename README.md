@@ -1,7 +1,7 @@
 # matha
 Math App 1
 Math
-Math 2.1
+Math 2.2
 Math 3.1
 Math 4.1
 math 5.1
