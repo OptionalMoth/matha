@@ -6,7 +6,7 @@ Math 3.2
 Math 4.2
 math 5.2
 math 6.2
-math 7.1
+math 7.2
 math 8.1
 math 9.1
 math 10.0
