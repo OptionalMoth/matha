@@ -4,7 +4,7 @@ Math
 Math 2.2
 Math 3.2
 Math 4.2
-math 5.1
+math 5.2
 math 6.1
 math 7.1
 math 8.1
