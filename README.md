@@ -2,7 +2,7 @@
 Math App 1
 Math
 Math 2.2
-Math 3.1
+Math 3.2
 Math 4.1
 math 5.1
 math 6.1
